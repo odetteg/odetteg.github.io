@@ -1,69 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Odette Mudia | Computational Biologist</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
+<center><h2>Steve George Odette</h2></center>
+<center><h2>Computational Biologist | Molecular Biologist | Epigenetics 💻🧬</h2></center>
 
-  <main>
-    <section class="hero">
-      <h1>Odette Mudia</h1>
-      <h2>Computational Biologist</h2>
-      <p>Combining cutting-edge bioinformatics and molecular biology to unlock the secrets of life.</p>
-    </section>
+<p>Hi there, I am Steve George Odette, But George is just fine. I am a computational biologist interested in working on molecular biology, immunology, and epigenetics problems. I have diverse expertise, combining wet lab and dry lab skills. My For wet lab, I am proficient at s. For dry lab/computational biology, I have an extensive experience with next generation sequencing data analysis and pipeline/workflow development 🔬.</p>
 
-    <section class="about">
-      <h2>About Me</h2>
-      <p>I am a passionate computational biologist with a strong background in molecular biology and expertise in bioinformatics data analysis. I specialize in next-generation molecular assays, pipeline development, and large-scale omics data analysis. My goal is to leverage my skills to drive innovative research and contribute to advancing our understanding of biological systems.</p>
-    </section>
+<h2>Key Accomplishments</h2>
 
-    <section class="skills">
-      <h2>Technical Skills</h2>
-      <ul>
-        <li>Next-generation sequencing (ONT, MGI, Illumina)</li>
-        <li>Bioinformatics data analysis (RNAseq, scRNA, bulk RNA, WGS)</li>
-        <li>Pipeline development (Nextflow, Snakemake)</li>
-        <li>Programming (Python, R, JavaScript)</li>
-        <li>Molecular biology techniques (PCR, cloning, gel electrophoresis)</li>
-      </ul>
-    </section>
+<ul>
+  <li><strong>Developed a highly efficient Nextflow pipeline</strong> for the analysis of Mycobacterium tuberculosis whole-genome sequencing data, streamlining the process and enabling rapid insights. (<a href="https://github.com/GeOdette/mtbcore" target="_blank">Project Link</a>)</li>
+  <li><strong>Conducted comprehensive RNAseq analysis</strong> for cutaneous leishmaniasis, uncovering novel insights into the disease's molecular mechanisms and potential therapeutic targets. (<a href="https://github.com/GeOdette/RNAseq" target="_blank">Project Link</a>)</li>
+  <li><strong>Contributed to the development of vaccine candidates</strong> for East Coast Fever and peste des petits ruminants virus through rigorous research and data analysis during my veterinary internship 🧪.</li>
+</ul>
 
-    <section class="projects">
-      <h2>Featured Projects</h2>
-      <ul>
-        <li>
-          <h3>Whole Genome Sequence Analysis of Mycobacterium tuberculosis</h3>
-          <p>Repository: <a href="https://github.com/GeOdette/mycobacterium_tuberculosis">https://github.com/GeOdette/mycobacterium_tuberculosis</a></p>
-        </li>
-        <li>
-          <h3>RNAseq Analysis for Cutaneous Leishmaniasis</h3>
-          <p>Repository: <a href="https://github.com/GeOdette/RNAseq">https://github.com/GeOdette/RNAseq</a></p>
-        </li>
-        <li>
-          <h3>Nextflow pipeline mtbcore for Mycobacterium tuberculosis WGS data</h3>
-          <p>Repository: <a href="https://github.com/GeOdette/mtbcore">https://github.com/GeOdette/mtbcore</a></p>
-        </li>
-      </ul>
-    </section>
-  </main>
+<h2>Technical Expertise</h2>
 
-  <footer>
-    <p>&copy; 2023 Odette Mudia. All rights reserved.</p>
-  </footer>
+<ul>
+  <li><strong>Next-Generation Sequencing</strong>: Proficient in cutting-edge NGS platforms (ONT, MGI, Illumina) and associated wet-lab techniques (DNA extraction, library preparation, sequencing).</li>
+  <li><strong>Bioinformatics Analysis</strong>: Extensive experience in large-scale omics data analysis (RNAseq, scRNA-seq, bulk RNA-seq, WGS) and pipeline development using Nextflow, Snakemake, and other bioinformatics tools 📊.</li>
+  <li><strong>Programming & Data Science</strong>: Skilled in Python, R, JavaScript, and associated data analysis libraries (NumPy, Pandas, scikit-learn) for efficient data processing, modeling, and visualization 💻📈.</li>
+  <li><strong>Molecular Biology Techniques</strong>: Hands-on experience with molecular biology techniques such as PCR, cloning, gel electrophoresis, bacterial and cell culture 🧬.</li>
+</ul>
 
-  <script src="script.js"></script>
-</body>
-</html>
+<h2>Education and Certifications</h2>
+
+<ul>
+  <li><strong>Master's in Molecular Biology</strong>, Jomo Kenyatta University of Agriculture and Technology, 2020 - Present 🎓.</li>
+  <li><strong>Bachelor's in Animal Health</strong>, Meru University of Science and Technology, 2014 - 2018 🎓.</li>
+  <li>Workshops: "Bioinformatics for Biologists", "Introduction to RNAseq Technology and Data", "Detailed Analysis of Cancer Mutations using Next-Generation Sequencing" 📚.</li>
+</ul>
+
+<h2>Publications and Presentations</h2>
+
+<ul>
+  <li>I have a number of publications upcoming 📊.</li>
+</ul>
+
+<h2>Contact</h2>
+
+<p>Feel free to reach out to me for collaboration opportunities or to discuss potential roles:</p>
+
+<ul>
+  <li>Email: <a href="steveodettegeorge@gmail.com">steveodettegeorge@gmail.com</a> ✉️</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/george-odette-445751a8/" target="_blank">https://www.linkedin.com/in/george-odette-445751a8/</a> 🔗</li>
+</ul>
