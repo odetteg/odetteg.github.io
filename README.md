@@ -51,7 +51,16 @@
 <ul>
   <li>ASM Future Leaders Mentorship Fellowship (FLMF) </li>
 </ul>
+
+<h2>Teaching and other activities</h2>
+<ul>
+  <li>Bioconductor carpentries instructor: I teach these core modules: 
+    <li>RNA-Seq Analysis with Bioconductor </li>
+    <li>Data analysis with R and Bioconductor </li>
+  <li>I am also developing my own course on Bacterial Genomics. Catch up with the course here </li>
   
+  </li>
+</ul>
 <h2>Workshops</h2>
 <ul>
 <li>Bioinformatics for Biologists</li>
