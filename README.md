@@ -55,8 +55,11 @@
 <h2>Teaching and other activities</h2>
 <ul>
   <li>Bioconductor carpentries instructor: I teach these core modules: 
-    <li>RNA-Seq Analysis with Bioconductor </li>
-    <li>Data analysis with R and Bioconductor </li>
+    <ul>
+      <li>RNA-Seq Analysis with Bioconductor </li>
+      <li>Data analysis with R and Bioconductor </li>
+    </ul>
+
   <li>I am also developing my own course on Bacterial Genomics. Catch up with the course here </li>
   
   </li>
