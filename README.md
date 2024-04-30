@@ -60,7 +60,7 @@
       <li>Data analysis with R and Bioconductor </li>
     </ul>
 
-  <li>I am also developing my own course on Bacterial Genomics. Catch up with the course here </li>
+  <li>I am also developing my own course on Bacterial Genomics. Catch up with the course <a href="https://github.com/gmeds/Bacterial-Genomics24.git"a/>here </li>
   
   </li>
 </ul>
