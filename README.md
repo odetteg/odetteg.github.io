@@ -3,7 +3,8 @@
 
 <p>Hi there, I am Steve George Odette, But George is just fine. I am a computational biologist interested in working on molecular biology, immunology, and epigenetics problems. I have diverse expertise, combining wet lab and dry lab skills. My For wet lab, I am proficient in Bacterial and cell culture, DNA extraction, cloning, PCR, gel electrophoresis, and NGS (I am mostly experienced in ONT and Illumina but have a one-time-off experience with MGI). I also have experience in PCR, RT qPCR, cloning, restriction enzyme digestion, gel electrophoresis, Immunohistochemistry, flow cytometry, Flow cytometry analysis, ELISA, and lateral flow assays. For dry lab/computational biology, I have extensive experience with next-generation sequencing data analysis and pipeline/workflow development 🔬.</p>
 
-<h2>Key Accomplishments</h2>
+<h2>Open-Source Accomplishments</h2>
+<h5>Note: These are projects I do in my free time as part of my contributions to open-source and as part of my efforts to help others (especially those novice in bioinformatics) learn. I believe well-documented projects help other learn better</h5>
 
 <ul>
   <li><strong>Developed a highly efficient Nextflow pipeline</strong> for the analysis of Mycobacterium tuberculosis whole-genome sequencing data, streamlining the process and enabling rapid insights. (<a href="https://github.com/GeOdette/mtbcore" target="_blank">Project Link</a>)</li>
