@@ -23,12 +23,14 @@
 
 <h2>Tools and Methods</h2>
 <ul>
-  <li>Machine learning: 
-  <ul>Supervised learning</ul>
-  <ul>Deep learning: <a href="https://github.com/odetteg/machine_learning_medical_imaging.git target="_blank>Deep learning for X-ray imaging</a></ul>
+  <li>Machine learning:
+    <ul>
+      <li>Supervised learning</li>
+      <li>Deep learning: <a href="https://github.com/odetteg/machine_learning_medical_imaging.git" target="_blank">Deep learning for X-ray imaging</a></li>
+    </ul>
   </li>
-
 </ul>
+
 
 <h2>Certifications</h2>
 <ul>
